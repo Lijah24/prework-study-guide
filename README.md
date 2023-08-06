@@ -1,5 +1,3 @@
-# prework-study-guide
-A study guide for course pre-work.
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -7,7 +5,8 @@ A study guide for course pre-work.
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./assets/style.css" />
-     </head>
+    <title>Prework Study Guide</title> 
+  </head>
   <body>
     <header id="header">
       <h1>Prework Study Guide</h1>
@@ -25,3 +24,4 @@ A study guide for course pre-work.
     </footer>
   </body>
 </html>
+
